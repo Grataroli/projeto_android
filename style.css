@@ -137,6 +137,7 @@ main a:hover{
 }
 
 main img {
+    width: auto;
     display: block;
     margin: auto;
 }
