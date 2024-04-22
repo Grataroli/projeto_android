@@ -140,6 +140,7 @@ main img {
     width: 80%;
     display: block;
     margin: auto;
+    max-width: 1000px;
 }
 
 main img.pequena {
