@@ -138,9 +138,8 @@ main a:hover{
 
 main img {
     width: 80%;
-    display: block;
+    display: flex;
     margin: auto;
-    min-width: none;
 }
 
 main img.pequena {
