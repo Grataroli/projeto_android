@@ -138,7 +138,7 @@ main a:hover{
 
 main img {
     width: 80%;
-    display: flex;
+    display: block;
     margin: auto;
 }
 
