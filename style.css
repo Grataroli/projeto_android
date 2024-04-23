@@ -8,6 +8,9 @@
     font-weight: normal;
 }
 
+html {
+    scroll-behavior: smooth;
+}
 
 :root{ /** Variável criada para ter as cores no CSS, quando precisar alterar uma paleta, altera através daqui. **/
     --cor0: #ebe5c5;
